@@ -34,25 +34,18 @@ I'm a postgrad student interested in software development.
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-### 🌱 Currently Learning
-- [Technology or skill you're learning]
-- [Another area of study]
 
-### 💼 Projects
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
+
+
+
 
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
 ### 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 💬 Discord: your_discord_handle
+- 📧 Email: harshalchoudhary53@gmail.com
 
 ---
 ⭐️ From [your-github-username](https://github.com/your-github-username)
